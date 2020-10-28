@@ -3,6 +3,7 @@
     height: 600px;
     position: relative;
     background-color: yellow;
+    overflow: hidden;
 }
 
 .doodler {
@@ -10,12 +11,11 @@
     height: 85px;
     background-color: red;
     position: absolute;
-    z-index: 2;
 }
 
 .platform {
     width: 85px;
-    height: 20px;
+    height: 15px;
     background-color: green;
     position: absolute;
 }
