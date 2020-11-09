@@ -3,7 +3,9 @@
     height: 600px;
     position: relative;
     background-color: yellow;
-    overflow: hidden;
+    font-size: 200px;
+    margin: 0;
+    text-align: center;
 }
 
 .doodler {
@@ -19,3 +21,4 @@
     background-color: green;
     position: absolute;
 }
+
